@@ -1,0 +1,28 @@
+{
+  "exams": [
+    {
+      "id": 1,
+      "title": "Exam 1",
+      "date": "2020-04-19",
+      "docs": [
+        {
+            "id": "doc_1",
+            "type": "report",
+            "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Exam 2",
+      "date": "2020-05-07",
+      "docs": [
+        {
+            "id": "doc_2",
+            "type": "report",
+            "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        }
+      ]
+    }
+  ]
+}
