@@ -10,6 +10,12 @@
             "type": "report",
             "title": "Exam report",
             "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+        },
+        {
+            "id": "doc_2",
+            "type": "dicomm",
+            "title": "Image 1",
+            "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
         }
       ]
     },
